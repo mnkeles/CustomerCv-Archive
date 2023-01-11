@@ -28,9 +28,9 @@
     6. [Delete](http://localhost:8080/api/file/delete/id)      [DELETE] 
 
 ### User Controller
-    1. [Sign up](http://localhost:8080/api/authentication/sign-up)             [GET]
-    2. [Sign up](http://localhost:8080/api/authentication/sign-in)             [GET]
-    3. [Delete](http://localhost:8080/api/authentication/delete/usename)       [POST]
+    1. [Sign up](http://localhost:8080/api/authentication/sign-up)             [POST]
+    2. [Sign in](http://localhost:8080/api/authentication/sign-in)             [POST]
+    3. [Delete](http://localhost:8080/api/authentication/delete/usename)       [DELETE]
 
 ### Internal Api Controller
     1. [Make Admin](http://localhost:8080/api/internal/make-admin/username)    [GET]
